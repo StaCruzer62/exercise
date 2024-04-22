@@ -1,4 +1,4 @@
-This documentation describes how to use the Pavel
+This documentation describes how to use the Karel
 robotic toothbrush.
 
 Note that this toothbrush is totally safe to use
