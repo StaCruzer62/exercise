@@ -1,4 +1,4 @@
-This documentation describes how to use the Karel
+This documentation describes how to use the Carol
 robotic toothbrush.
 
 Note that this toothbrush is totally safe to use
